@@ -1,0 +1,12 @@
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.exe
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.deps.json
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.runtimeconfig.json
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.runtimeconfig.dev.json
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.dll
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\bin\Debug\netcoreapp3.1\Question 4.pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.AssemblyInfoInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.AssemblyInfo.cs
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.csproj.CoreCompileInputs.cache
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.dll
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.pdb
+D:\Semester\Sixth semester\C#\Lab\Lab 2\Question 4\Question 4\obj\Debug\netcoreapp3.1\Question 4.genruntimeconfig.cache
